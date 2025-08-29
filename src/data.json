@@ -1,0 +1,943 @@
+[
+  {
+    "id": "80e42c4f-098c-4323-9df4-c3e43d8a6048",
+    "title": "EMEA Technical Revenue Manager [Contract]",
+    "location": "GB Remote United Kingdom",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "London, City of",
+        "addressCountry": "United Kingdom",
+        "addressLocality": "London"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, Ireland",
+        "address": {
+          "postalAddress": {
+            "addressCountry": "Ireland"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Finance & Operations",
+    "team": "Finance & Operations",
+    "publishedAt": "2025-07-25T12:41:00.951+00:00"
+  },
+  {
+    "id": "2f437822-543b-4312-82ab-509dd6a17c98",
+    "title": "Manager II, Software Development",
+    "location": "Remote, Germany",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "Germany"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T14:43:19.288+00:00"
+  },
+  {
+    "id": "15f7c9bb-e91f-4e95-9f45-5fa8f73fe901",
+    "title": "Sr. Software Engineer II - Cloud Platform",
+    "location": "Remote, British Columbia, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "British Columbia",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-07-08T16:23:16.898+00:00"
+  },
+  {
+    "id": "2dcf3cd6-c5c2-4103-b243-f8047f7cf853",
+    "title": "Solutions Engineer",
+    "location": "New Delhi, India",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "India",
+        "addressLocality": "New Delhi"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": false,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-06-27T06:09:34.491+00:00"
+  },
+  {
+    "id": "2a385d5a-e520-4d1d-a4f2-b74f7cae2c5d",
+    "title": "Solutions Engineer",
+    "location": "Mumbai, India",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "India",
+        "addressLocality": "Mumbai"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": false,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-06-26T13:23:11.209+00:00"
+  },
+  {
+    "id": "a025f0d7-4ea0-4ea6-bc9a-7d6fb2d8092c",
+    "title": "Sr. Business Systems Analyst - GTM",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Finance & Operations",
+    "team": "Business Technology, Data, & Operations",
+    "publishedAt": "2025-06-27T12:17:05.330+00:00"
+  },
+  {
+    "id": "e93f1abc-97cf-411a-8815-1658742916b9",
+    "title": "Program Manager, People Strategy & Enablement",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "People & Places",
+    "team": "People & Places",
+    "publishedAt": "2025-07-28T13:25:26.443+00:00"
+  },
+  {
+    "id": "6671b9db-d201-44ce-a938-32b2cd354c65",
+    "title": "Senior Solutions Engineer",
+    "location": "Central Region, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-07-22T20:06:34.976+00:00"
+  },
+  {
+    "id": "bc33e0bd-ea88-422f-940a-450191aa0acd",
+    "title": "Account Executive, Digital Native & Emerging Markets",
+    "location": "Remote, California",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "California",
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Sales",
+    "team": "Sales",
+    "publishedAt": "2025-07-14T21:06:40.019+00:00"
+  },
+  {
+    "id": "32150834-8177-44d7-a055-0ef440dbb14f",
+    "title": "Strategic Customer Success Manager - Public Sector",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Job Fairs & Work Programs",
+    "team": "Skillbridge",
+    "publishedAt": "2025-06-28T01:59:21.531+00:00"
+  },
+  {
+    "id": "01111a33-07e0-4828-a965-38a0e76da78a",
+    "title": "Staff Product Manager - Confluent Platform for Apache Flink®",
+    "location": "GB Remote United Kingdom",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "London, City of",
+        "addressCountry": "United Kingdom",
+        "addressLocality": "London"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Product",
+    "team": "Product",
+    "publishedAt": "2025-07-08T02:27:06.714+00:00"
+  },
+  {
+    "id": "3edd180a-83cf-4431-9061-ffadc7c94701",
+    "title": "ISV Partner Specialist",
+    "location": "Bangalore, India",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "India",
+        "addressLocality": "Bangalore"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": false,
+    "department": "Sales",
+    "team": "Sales",
+    "publishedAt": "2025-06-26T13:59:40.467+00:00"
+  },
+  {
+    "id": "735a9d35-20c6-4627-82ac-7c84f6c9bfb3",
+    "title": "Customer Success Technical Architect",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Job Fairs & Work Programs",
+    "team": "Skillbridge",
+    "publishedAt": "2025-06-28T03:09:02.388+00:00"
+  },
+  {
+    "id": "47920ccd-db54-4ed4-a865-70857e865fff",
+    "title": "Software Engineer - WarpStream",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, Massachusetts",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "Massachusetts",
+            "addressCountry": "United States"
+          }
+        }
+      },
+      {
+        "location": "Remote, Texas",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "Texas",
+            "addressCountry": "United States"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-27T16:37:41.893+00:00"
+  },
+  {
+    "id": "a623d230-eabd-457f-8235-8504d8dd5532",
+    "title": "Strategic Account Executive, Financial Services",
+    "location": "Remote, New Jersey",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "New Jersey",
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, Massachusetts",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "Massachusetts",
+            "addressCountry": "United States"
+          }
+        }
+      },
+      {
+        "location": "Remote, Washington",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "Washington",
+            "addressCountry": "United States"
+          }
+        }
+      },
+      {
+        "location": "Remote, Pennsylvania",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "Pennsylvania",
+            "addressCountry": "United States"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Sales",
+    "team": "Global Sales",
+    "publishedAt": "2025-07-21T19:22:39.473+00:00"
+  },
+  {
+    "id": "71a8d9f0-5752-468a-8329-1479d05804a9",
+    "title": "Federal Account Executive ",
+    "location": "Remote, Washington",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Washington",
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, Maryland",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "Maryland",
+            "addressCountry": "United States"
+          }
+        }
+      },
+      {
+        "location": "Remote, Virginia",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "Virginia",
+            "addressCountry": "United States"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Sales",
+    "team": "Global Sales",
+    "publishedAt": "2025-07-25T15:23:57.839+00:00"
+  },
+  {
+    "id": "a5ded23b-f8db-4d7f-8489-ec7de76f1815",
+    "title": "Enterprise Account Executive, National Accounts",
+    "location": "Minneapolis, Minnesota",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Minnesota",
+        "addressCountry": "United States",
+        "addressLocality": "Minneapolis"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, Wisconsin",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "Wisconsin",
+            "addressCountry": "United States"
+          }
+        }
+      }
+    ],
+    "isRemote": false,
+    "department": "Sales",
+    "team": "Global Sales",
+    "publishedAt": "2025-07-22T15:47:44.926+00:00"
+  },
+  {
+    "id": "9abc33c5-ea20-4bd8-a9f2-c6c4b6bc6477",
+    "title": "Senior Software Engineer - Kora Global",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, British Columbia, Canada",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "British Columbia",
+            "addressCountry": "Canada"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T16:48:18.515+00:00"
+  },
+  {
+    "id": "33d435fd-c20f-47af-9c76-45050185d0a7",
+    "title": "Senior Solutions Engineer (Spanish speaking)",
+    "location": "East Coast Region, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Central Region, United States",
+        "address": {
+          "postalAddress": {
+            "addressCountry": "United States"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-07-10T22:53:44.430+00:00"
+  },
+  {
+    "id": "fd9f602f-9741-4360-946d-430f1515ebf9",
+    "title": "Technical Support Engineer",
+    "location": "Remote, Arizona",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Arizona",
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-06-27T15:58:53.450+00:00"
+  },
+  {
+    "id": "f3992843-fa7e-44ae-a4bc-8ddfbf81d36d",
+    "title": "Staff Software Engineer I- Fleet Management",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, British Columbia, Canada",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "British Columbia",
+            "addressCountry": "Canada"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T16:28:18.856+00:00"
+  },
+  {
+    "id": "fff9dae4-0e56-48d5-80f1-78a97cb70cd4",
+    "title": "Senior Technical Revenue Manager",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Finance & Operations",
+    "team": "Finance & Operations",
+    "publishedAt": "2025-07-14T16:31:40.486+00:00"
+  },
+  {
+    "id": "fbcb33ec-d05b-4cf3-b10c-89c394fde5e5",
+    "title": "Escalation Manager ",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-07-11T21:43:13.176+00:00"
+  },
+  {
+    "id": "62fc2bff-dab3-4d48-9e00-7d615c43a966",
+    "title": "Manager, SDR",
+    "location": "IN Remote India",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Karnataka",
+        "addressCountry": "India",
+        "addressLocality": "Bengaluru"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Sales",
+    "team": "Sales",
+    "publishedAt": "2025-07-14T04:32:47.659+00:00"
+  },
+  {
+    "id": "81a454dc-fbd7-460d-881b-b93d192b50a6",
+    "title": "Staff Sales Operations Business Partner",
+    "location": "IN Remote India",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Karnataka",
+        "addressCountry": "India",
+        "addressLocality": "Bengaluru"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Sales",
+    "team": "Sales",
+    "publishedAt": "2025-07-21T04:22:52.020+00:00"
+  },
+  {
+    "id": "b942b3a0-9bda-448d-b5e3-6d808bb032ea",
+    "title": "Customer Solutions Consultant",
+    "location": "Remote, India",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "India"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-07-15T09:08:50.678+00:00"
+  },
+  {
+    "id": "c317b812-adc8-4485-9bf4-22d219dd235f",
+    "title": "Sales Development Representative, Inbound ",
+    "location": "Austin, Texas",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Texas",
+        "addressCountry": "United States",
+        "addressLocality": "Austin"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": false,
+    "department": "Sales",
+    "team": "Sales",
+    "publishedAt": "2025-07-14T21:04:40.943+00:00"
+  },
+  {
+    "id": "cf90bf3a-7287-4edb-9f46-39277ca32f89",
+    "title": "Collection Analyst",
+    "location": "Bangalore, India",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "India",
+        "addressLocality": "Bangalore"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": false,
+    "department": "Finance & Operations",
+    "team": "Finance & Accounting",
+    "publishedAt": "2025-07-03T11:10:52.353+00:00"
+  },
+  {
+    "id": "f8578706-4c5c-4260-a794-a114a8f196e0",
+    "title": "Revenue Accounting Manager",
+    "location": "IN Office Bangalore",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Karnataka",
+        "addressCountry": "India",
+        "addressLocality": "Bengaluru"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": false,
+    "department": "Finance & Operations",
+    "team": "Finance & Operations",
+    "publishedAt": "2025-07-03T11:10:23.899+00:00"
+  },
+  {
+    "id": "fe7a6645-ca1c-4bba-bca6-739aea393f51",
+    "title": "PSS Coordinator",
+    "location": "IN Office Bangalore",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Karnataka",
+        "addressCountry": "India",
+        "addressLocality": "Bengaluru"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": false,
+    "department": "People & Places",
+    "team": "People & Places",
+    "publishedAt": "2025-07-17T11:42:29.581+00:00"
+  },
+  {
+    "id": "3fc1adb4-594a-484b-8e76-9a45156c83fe",
+    "title": "Senior Software Engineer",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-25T21:39:50.744+00:00"
+  },
+  {
+    "id": "6868111b-c3a5-4fba-87bb-d2590b778899",
+    "title": "Senior Software Engineer II",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, British Columbia, Canada",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "British Columbia",
+            "addressCountry": "Canada"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-25T20:55:47.008+00:00"
+  },
+  {
+    "id": "6b2cf072-4095-473e-88f5-aaae769de385",
+    "title": "Technical Support Engineer ",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-07-17T19:09:20.005+00:00"
+  },
+  {
+    "id": "2dbc4662-71a2-474a-8260-a76be3b9ad8a",
+    "title": "Senior Customer Success Architect",
+    "location": "AE Office Dubai",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Dubai",
+        "addressCountry": "United Arab Emirates"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": false,
+    "department": "Customer Solutions",
+    "team": "Customer Solutions",
+    "publishedAt": "2025-06-30T00:57:56.436+00:00"
+  },
+  {
+    "id": "b3b29647-64a0-4f06-b2db-63fd2bf1898e",
+    "title": "Staff Software Engineer II- Security Platform",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, British Columbia, Canada",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "British Columbia",
+            "addressCountry": "Canada"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-07-08T16:55:06.064+00:00"
+  },
+  {
+    "id": "4de656b8-a64b-4a20-b42d-04c9fab33381",
+    "title": "Manager II, Engineering - Connect Platform",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-27T03:09:13.175+00:00"
+  },
+  {
+    "id": "3436d139-3515-4261-b955-a486e35a2228",
+    "title": "Senior Software Engineer II",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, British Columbia, Canada",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "British Columbia",
+            "addressCountry": "Canada"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-27T18:07:53.643+00:00"
+  },
+  {
+    "id": "ef9e0060-e6c4-49c9-831a-a9616009673b",
+    "title": "Senior Application Security Engineer (Remote - USA)",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-27T14:27:51.170+00:00"
+  },
+  {
+    "id": "f0c5a8a4-d238-4b66-8879-ff3d6b011b53",
+    "title": "Senior Manager, Software Engineering",
+    "location": "Remote, Poland",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "Poland"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T13:44:53.923+00:00"
+  },
+  {
+    "id": "1a50f89e-75bd-463e-81b6-8d2d84d6fd2d",
+    "title": "Senior Software Engineer",
+    "location": "Remote, India",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "India"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-07-28T11:18:39.045+00:00"
+  },
+  {
+    "id": "b0af8ade-a80d-4a17-b835-56f2c964bcef",
+    "title": "Senior Software Engineer II",
+    "location": "Remote, Poland",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "Poland"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T12:19:41.625+00:00"
+  },
+  {
+    "id": "872d0ccd-b7eb-4aef-858d-c04c94253546",
+    "title": "Senior Software Engineer II - Apache Kafka",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [
+      {
+        "location": "Remote, British Columbia, Canada",
+        "address": {
+          "postalAddress": {
+            "addressRegion": "British Columbia",
+            "addressCountry": "Canada"
+          }
+        }
+      }
+    ],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-07-17T18:09:58.576+00:00"
+  },
+  {
+    "id": "f1937597-679a-4b1f-a835-577c8b199340",
+    "title": "Senior Software Engineer II, Kora Compute",
+    "location": "Remote, Ontario, Canada",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T16:52:36.467+00:00"
+  },
+  {
+    "id": "fbe063e0-42b2-40c7-a8ff-b9ba2f87dedf",
+    "title": "Director II, Engineering - Head of Confluent Control Plane",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-07-09T17:47:36.191+00:00"
+  },
+  {
+    "id": "28affabd-ad01-4de3-997f-d1e3556c38ee",
+    "title": "Senior Software Engineer II",
+    "location": "Remote, Poland",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "Poland"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T13:50:00.669+00:00"
+  },
+  {
+    "id": "504d5162-bc13-40ec-8ee5-f0c512929bf0",
+    "title": "Staff Software Engineer I - Cloud Authentication Platform",
+    "location": "CA Remote Ontario",
+    "address": {
+      "postalAddress": {
+        "addressRegion": "Ontario",
+        "addressCountry": "Canada",
+        "addressLocality": "Toronto"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-07-11T18:28:03.969+00:00"
+  },
+  {
+    "id": "3289e41c-cb82-468c-bc66-d62396d165c4",
+    "title": "Staff Software Engineer I",
+    "location": "Remote, India",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "India"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-07-22T11:18:23.678+00:00"
+  },
+  {
+    "id": "cb97bb09-15fe-4938-9bc7-ccdd59e51990",
+    "title": "Senior Software Engineer",
+    "location": "Remote, Poland",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "Poland"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T16:34:03.422+00:00"
+  },
+  {
+    "id": "e790dc5c-3e68-41d3-87f7-f2d4325a73da",
+    "title": "Principal Engineer I",
+    "location": "Remote, India",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "India"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-26T16:59:25.306+00:00"
+  },
+  {
+    "id": "043314de-8a0d-444b-8389-75e4eef4fde6",
+    "title": "Principal Engineer - Compute Platform",
+    "location": "Remote, United States",
+    "address": {
+      "postalAddress": {
+        "addressCountry": "United States"
+      }
+    },
+    "secondaryLocations": [],
+    "isRemote": true,
+    "department": "Engineering",
+    "team": "Engineering",
+    "publishedAt": "2025-06-29T06:41:26.623+00:00"
+  }
+]
