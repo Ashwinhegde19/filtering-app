@@ -27,6 +27,7 @@ export default function Results({ data, filters, setFilters, totalPages }) {
           <p>Department: {item.department}</p>
           <p>Team: {item.team}</p>
           <p>Country: {item.address?.postalAddress?.addressCountry}</p>
+          <p>Work Type: {item.isRemote ? 'Remote' : 'On-site'}</p>
         </div>
       ))}
 

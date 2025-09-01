@@ -18,6 +18,12 @@ export function applyFilters(data, filters) {
     );
   }
 
+  if(filters.isRemote.length) {
+    result = result.filter((d) =>
+      filters.isRemote.includes(d.isRemote.toString())
+    )
+  }
+
   // Sidebar search (only department + team)
   if (filters.sidebarSearch) {
     const keyword = filters.sidebarSearch.toLowerCase();
