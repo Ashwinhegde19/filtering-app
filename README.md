@@ -1,12 +1,37 @@
-# React + Vite
+# Filtering App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app for filtering job opportunities by department, team, country, and search.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Filter by department, team, and country
+- Search by keyword
+- Pagination
+- URL sync for filters
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+2. **Run locally:**
+   ```bash
+   npm run dev
+   ```
+
+
+## Deployment
+
+- Push your code to GitHub.
+- Connect your repo to [Vercel](https://vercel.com).
+- Vercel auto-deploys on every push.
+
+## Project Structure
+
+- `src/App.jsx` - Main app logic
+- `src/components/Sidebar.jsx` - Filter sidebar
+- `src/components/Results.jsx` - Results and pagination
+- `src/utils/filters.js` - Filtering logic
+- `src/data.json` - Sample data
