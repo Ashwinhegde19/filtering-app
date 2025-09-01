@@ -1,6 +1,11 @@
 import React from "react";
 
-export default function Sidebar({ filters, setFilters, categories, countries }) {
+export default function Sidebar({
+  filters,
+  setFilters,
+  categories,
+  countries,
+}) {
   const handleCheckboxChange = (type, value) => {
     setFilters((prev) => {
       const values = prev[type].includes(value)
@@ -23,7 +28,9 @@ export default function Sidebar({ filters, setFilters, categories, countries }) 
             <input
               type="checkbox"
               checked={filters.department.includes(cat.department)}
-              onChange={() => handleCheckboxChange("department", cat.department)}
+              onChange={() =>
+                handleCheckboxChange("department", cat.department)
+              }
               className="mr-2"
             />
             <label>{cat.department}</label>
@@ -59,6 +66,17 @@ export default function Sidebar({ filters, setFilters, categories, countries }) 
         </div>
       ))}
 
+      <h3 className="font-bold mt-4 mb-2">Work Type</h3>
+      <div className="mb-1">
+        <input
+          type="checkbox"
+          checked={filters.isRemote?.includes("true") || false}
+          onChange={() => handleCheckboxChange("isRemote", "true")}
+          className="mr-2"
+        />
+        <label>Remote Only</label>
+      </div>
+
       {/* Clear Filters */}
       <button
         onClick={() =>
@@ -66,6 +84,7 @@ export default function Sidebar({ filters, setFilters, categories, countries }) 
             department: [],
             team: [],
             country: [],
+            isRemote: [],
             search: "",
             page: 1,
           })

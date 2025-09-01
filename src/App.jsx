@@ -11,6 +11,7 @@ export default function App() {
       department: params.getAll("department"),
       team: params.getAll("team"),
       country: params.getAll("country"),
+      isRemote: params.getAll("isRemote") ,
       sidebarSearch: params.get("sidebarSearch") || "",
       search: params.get("search") || "",
       page: parseInt(params.get("page") || "1", 10),
@@ -51,6 +52,7 @@ export default function App() {
     filters.department.forEach((d) => params.append("department", d));
     filters.team.forEach((t) => params.append("team", t));
     filters.country.forEach((c) => params.append("country", c));
+    filters.isRemote.forEach((r) => params.append("isRemote", r));
     if (filters.sidebarSearch) params.set("sidebarSearch", filters.sidebarSearch);
     if (filters.search) params.set("search", filters.search);
     if (filters.page > 1) params.set("page", filters.page);
