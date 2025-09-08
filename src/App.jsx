@@ -47,6 +47,11 @@ export default function App() {
     const results = applyFilters(data, filters);
     setFilteredData(results);
 
+    const sortedResults = results.sort((a, b) =>
+      a.title.localeCompare(b.title)
+    );
+    setFilteredData(sortedResults);
+
     // Sync filters → URL
     const params = new URLSearchParams();
     filters.department.forEach((d) => params.append("department", d));
