@@ -60,8 +60,8 @@ export default function App() {
     filters.isRemote.forEach((r) => params.append("isRemote", r));
     if (filters.sidebarSearch) params.set("sidebarSearch", filters.sidebarSearch);
     if (filters.search) params.set("search", filters.search);
-    if (filters.page > 1) params.set("page", filters.page);
-
+    params.set("page", String(filters.page));
+    
     window.history.replaceState(
       {},
       "",
@@ -75,6 +75,15 @@ export default function App() {
     (filters.page - 1) * pageSize,
     filters.page * pageSize
   );
+
+  // ensure page stays within valid bounds if URL was edited or filters changed
+  useEffect(() => {
+    if (filters.page > totalPages) {
+      setFilters((prev) => ({ ...prev, page: totalPages }));
+    } else if (filters.page < 1) {
+      setFilters((prev) => ({ ...prev, page: 1 }));
+    }
+  }, [totalPages]);
 
   return (
     <div className="flex h-screen bg-gray-100">
