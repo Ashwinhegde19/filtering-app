@@ -19,6 +19,7 @@ export default function App() {
   });
 
   const [filteredData, setFilteredData] = useState([]);
+  const [debouncedFilters, setDebouncedFilters] = useState(filters);
 
   // Build Department → Teams tree
   const categories = Array.from(
@@ -43,16 +44,30 @@ export default function App() {
     ),
   ];
 
+  // Debounce search inputs (sidebarSearch and search)
   useEffect(() => {
-    const results = applyFilters(data, filters);
-    setFilteredData(results);
+    const timer = setTimeout(() => {
+      setDebouncedFilters(filters);
+    }, 300); // 300ms debounce
 
+    return () => clearTimeout(timer);
+  }, [filters.sidebarSearch, filters.search]);
+
+  // Update debounced filters immediately for non-search filters
+  useEffect(() => {
+    setDebouncedFilters(filters);
+  }, [filters.department, filters.team, filters.country, filters.isRemote, filters.page]);
+
+  useEffect(() => {
+    const results = applyFilters(data, debouncedFilters);
     const sortedResults = results.sort((a, b) =>
       a.title.localeCompare(b.title)
     );
     setFilteredData(sortedResults);
+  }, [debouncedFilters]);
 
-    // Sync filters → URL
+  // Separate effect for URL sync - use immediate filters for URL updates
+  useEffect(() => {
     const params = new URLSearchParams();
     filters.department.forEach((d) => params.append("department", d));
     filters.team.forEach((t) => params.append("team", t));
@@ -83,7 +98,7 @@ export default function App() {
     } else if (filters.page < 1) {
       setFilters((prev) => ({ ...prev, page: 1 }));
     }
-  }, [totalPages]);
+  }, [totalPages, filters.page]);
 
   return (
     <div className="flex h-screen bg-gray-100">
