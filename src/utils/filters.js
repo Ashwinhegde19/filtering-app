@@ -18,16 +18,6 @@ export function applyFilters(data, filters) {
     );
   }
 
-  // Sidebar search (only department + team)
-  if (filters.sidebarSearch) {
-    const keyword = filters.sidebarSearch.toLowerCase();
-    result = result.filter(
-      (d) =>
-        d.department?.toLowerCase().includes(keyword) ||
-        d.team?.toLowerCase().includes(keyword)
-    );
-  }
-
   // Global search (title, dept, team, country)
   if (filters.search) {
     const keyword = filters.search.toLowerCase();
